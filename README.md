@@ -10,11 +10,11 @@ We do not include the CB3 exam, as its pass rates are not available.
 
 To determine if a student passes an exam, we use 3 random numbers between 0 and 1, generated for each exam.
 
-Ability, determining the candidate's innate ability for that particular subject/exam.
+  Ability, determining the candidate's innate ability for that particular subject/exam.
 
-Study, determining the level of preparation that the student put in.
+  Study, determining the level of preparation that the student put in.
 
-Luck, which quantifies the luck factor in exam questions.
+  Luck, which quantifies the luck factor in exam questions.
 
 Ability is only sampled once per candidate per exam.
 
